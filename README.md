@@ -1,7 +1,7 @@
 # Predicting_Bike_Sharing_Pattern
 
 
-For the first project, we'll build a neural network from scratch to predict bike-sharing rides. 
+In this project, we'll build a neural network from scratch to predict bike-sharing rides. 
 
 Imagine yourself owning a bike sharing company like [Cycle Hop](https://cyclehop.com). You want to protect how many bikes you need because if you have too few you're losing money from potential riders. If you have too many you're wasting money on bikes that are just sitting around. So you need to predict from historical data how many bikes you'll need in the near future.
 
